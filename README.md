@@ -14,7 +14,10 @@ $ npm i --save owner-repo-stringify
 const stringify = require("owner-repo-stringify");
 
 console.log(stringify("IonicaBizau", "git-stats"));
+// IonicaBizau/git-stats
+
 console.log(stringify("IonicaBizau"));
+// IonicaBizau
 ```
 
 ## Documentation
