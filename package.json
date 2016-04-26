@@ -1,6 +1,6 @@
 {
   "name": "owner-repo-stringify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stringify the owner and repository values into full names.",
   "main": "lib/index.js",
   "directories": {
@@ -24,5 +24,16 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/owner-repo-stringify/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/owner-repo-stringify#readme"
+  "homepage": "https://github.com/IonicaBizau/owner-repo-stringify#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
