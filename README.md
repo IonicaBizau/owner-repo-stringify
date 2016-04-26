@@ -1,14 +1,18 @@
+
 # owner-repo-stringify [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/owner-repo-stringify.svg)](https://www.npmjs.com/package/owner-repo-stringify) [![Downloads](https://img.shields.io/npm/dt/owner-repo-stringify.svg)](https://www.npmjs.com/package/owner-repo-stringify) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Stringify the owner and repository values into full names.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save owner-repo-stringify
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const stringify = require("owner-repo-stringify");
@@ -20,7 +24,8 @@ console.log(stringify("IonicaBizau"));
 // IonicaBizau
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `ownerRepoStringify(owner, repo)`
 Stringify the owner and repository values into full names.
@@ -32,13 +37,18 @@ Stringify the owner and repository values into full names.
 #### Return
 - **String** The repository full name: `owner[/repo]`.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
-## License
+
+ - [`owner-repo`](https://github.com/IonicaBizau/owner-repo#readme)—Parse the the owner/repo snippets.
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
