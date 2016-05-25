@@ -1,5 +1,7 @@
 
-# owner-repo-stringify [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/owner-repo-stringify.svg)](https://www.npmjs.com/package/owner-repo-stringify) [![Downloads](https://img.shields.io/npm/dt/owner-repo-stringify.svg)](https://www.npmjs.com/package/owner-repo-stringify) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+# owner-repo-stringify
+
+ [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/owner-repo-stringify.svg)](https://www.npmjs.com/package/owner-repo-stringify) [![Downloads](https://img.shields.io/npm/dt/owner-repo-stringify.svg)](https://www.npmjs.com/package/owner-repo-stringify) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Stringify the owner and repository values into full names.
 
