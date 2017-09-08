@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Stringify the owner and repository values into full names.
 
 #### Params
+
 - **String** `owner`: The owner value.
 - **String** `repo`: The repository name.
 
