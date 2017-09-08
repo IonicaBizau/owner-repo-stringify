@@ -1,6 +1,6 @@
 {
   "name": "owner-repo-stringify",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Stringify the owner and repository values into full names.",
   "main": "lib/index.js",
   "directories": {
@@ -35,6 +35,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
