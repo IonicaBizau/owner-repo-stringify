@@ -1,6 +1,6 @@
 {
   "name": "owner-repo-stringify",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Stringify the owner and repository values into full names.",
   "main": "lib/index.js",
   "directories": {
